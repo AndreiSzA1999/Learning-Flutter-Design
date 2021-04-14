@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_vscode/models/sliders_model.dart';
 import 'package:provider/provider.dart';
 
 /*------------------------- WIDGET COMPLETO ------------------------- */
